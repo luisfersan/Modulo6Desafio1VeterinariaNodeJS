@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "nombre": "Akira",
+    "edad": "2 años",
+    "tipoAnimal": "gata",
+    "color": "tres_colores",
+    "enfermedad": "malestar_general"
+  },
+  {
+    "nombre": "Toby",
+    "edad": "1 año",
+    "tipoAnimal": "perro",
+    "color": "negro",
+    "enfermedad": "fiebre"
+  }
+]
